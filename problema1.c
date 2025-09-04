@@ -19,7 +19,7 @@
  */
 uint8_t turn_on_lights(uint8_t current_state, uint8_t light_mask)
 {
-  // Modificar aqui
+  
   return 0;
 }
 
